@@ -1,0 +1,22 @@
+1.Explain the use of JavaScript ( or What you can do using a JavaScript)
+In today javascript is getting used as the frontend ,backend, middleware ,machine learning , AI, blockchain and more.
+
+2.What is the difference between client-side and server-side?
+Client-side simply means the core functionality is running on the client machine. like if i am operating website and interacting with browing moving from one page to another thats the client side.
+Server-side means the core fuctionality is running on the server . like we know some pcs are never shut down or always online they are having their own cli and other programe which we are using as server.
+
+3.What is Nodejs?
+Nodejs creates is a open source programme which creates the enviroment to run javascript.
+
+4.Explain Scope in JavaScript
+Scope defines the use of the function,variable and objects.
+
+5.JavaScript is asynchronous or synchronous.
+its is synchronus.
+
+6.JavaScript is Single-threaded or Multi-threaded.
+its is a single threaded.
+
+
+7. Explain DOM in your own word.
+Document Object Model : it is the represent of the level wise declaration of the objects in javascript
